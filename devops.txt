@@ -1,9 +1,4 @@
 hello
 This is First file here 
-This is mine organisation and inside it this is our repository [A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DGg[D[A[D[D[D[D[D[D[D[D[D[D[D
-[D[D
-
-[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-
-
+This is mine organisation and inside it this is our repository
 I am here in main branch.
